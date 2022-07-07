@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body .main{
+    margin: 4% 3% 2% 3%;
+
+}
+.main{
+    padding: 1em;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    border-radius: 1em ;
+    background-color: #2E0039;
+
+}
+
+.selecter{
+    margin-right: 2%;
+}
